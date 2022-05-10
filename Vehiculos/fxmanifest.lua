@@ -2,8 +2,8 @@ fx_version 'cerulean' -- Si te falla esta versión, usa: 'adamant'
 game 'gta5'
 
 author 'Mancotrex'
-name 'Manifest para vehiculos'
-description 'Este fxmanifest es para vehiculos'
+name 'Nombre del vehiculo'
+description 'Descripción del vehiculo'
 version '0.0'
 
 files {
