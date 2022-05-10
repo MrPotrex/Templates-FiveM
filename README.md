@@ -1,0 +1,2 @@
+# Manifest
+configurar ahora
