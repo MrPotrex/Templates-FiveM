@@ -2,4 +2,5 @@
 
 # FxManifest para tus scripts
 
-configurar ahora
+
+asdasdas
