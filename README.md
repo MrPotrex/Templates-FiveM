@@ -2,5 +2,4 @@
 
 # FxManifest para tus scripts
 
-
 asdasdas
