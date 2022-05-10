@@ -2,4 +2,6 @@
 
 # FxManifest para tus scripts
 
-asdasdas
+Este archivo es esencial para que funcione tu script, vehiculo o mapeado. Cada uno tiene el suyo propio y pueden modificarlo al gusto.
+
+Fuente: https://docs.fivem.net/docs/game-references/data-files/
