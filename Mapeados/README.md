@@ -1,1 +1,3 @@
+Usa este README.md para añadir un tutorial, imagenes, etc...
 
+Borrad los README.md dentro de las carpetas.
