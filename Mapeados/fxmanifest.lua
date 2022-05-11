@@ -11,4 +11,4 @@ files {
 }
 
 -- AÑADIR SI TIENEN ESTOS ARCHIVOS:
---data_file 'CONTENT_UNLOCKING_META_FILE' 'data/ganjarimscontentunlocks.meta' 
+--data_file 'INTERIOR_PROXY_ORDER_FILE' 'interiorproxies.meta' 
