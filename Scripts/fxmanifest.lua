@@ -16,6 +16,7 @@ server_scripts {
 }
 
 client_scripts {
+	'@es_extended/locale.lua',
 	'client/*.lua'
 }
 -- Si tiene archivos png, css, html, etc... Usarlo, si no, no hace falta.
