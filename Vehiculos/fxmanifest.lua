@@ -4,7 +4,7 @@ game 'gta5'
 author 'Mancotrex'
 name 'Nombre del vehiculo'
 description 'Descripción del vehiculo'
-version '0.0'
+version '0.0.0'
 
 files {
   'data/*.meta',
