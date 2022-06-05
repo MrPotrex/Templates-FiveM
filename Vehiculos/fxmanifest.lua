@@ -1,4 +1,4 @@
-fx_version 'cerulean' -- Si te falla esta versión, usa: 'adamant'
+fx_version 'cerulean' -- adamant | bodacious | cerulean
 game 'gta5'
 
 author 'Mancotrex'
