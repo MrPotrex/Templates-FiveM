@@ -1,4 +1,4 @@
-fx_version 'adamant'
+fx_version 'adamant' -- adamant | bodacious | cerulean
 game 'gta5'
 
 autor 'Mancotrex'
